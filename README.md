@@ -1,4 +1,4 @@
-# Reporte de facturación del sistema de mariscal López Shopping
+# Reporte de facturación del sistema de Mariscal López Shopping
 # Prerrequisito
 Instalar Python3.12, preferentemente desde el microsoft store
 # Forma de uso
