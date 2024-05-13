@@ -42,7 +42,6 @@ if __name__ == '__main__':
 					h1Resp=urllib.request.urlopen(h1Req,data=postJson.encode(),timeout=servicioHttpTimeout)
 					httpRetCode=h1Resp.status
 					httpRetReason=h1Resp.reason
-					print(httpRetCode,httpRetReason)
 					if httpRetCode == 200:
 						exit(0)
 					##################

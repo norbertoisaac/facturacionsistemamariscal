@@ -9,4 +9,4 @@ python3 src/facturacionMLS.py tests/factura-2024-05-12-10-00-00-000000.csv
 token,contrato,comprobante,fecha,tipo,moneda,tipoCambio,gravadas10,gravadas5,exentas,total,cliente,ruc
 mytoken123,C0000000695,001-001-1000001,30-07-2023,FACT,GS,0,0,0.00,0.00,0,SIN NOMBRE,0000000-0
 ```
-La ejecución del comando devuelte True o 0 en caso de éxito, en cualquier otro caso devuelve False o 1.
+La ejecución del comando devuelve True o 0 en caso de éxito, en cualquier otro caso devuelve False o 1.
