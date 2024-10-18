@@ -4,10 +4,12 @@ Instalar Python3.12, preferentemente desde el microsoft store
 # Forma de uso
 
 Argumentos:
+	
 	--log
+	
 		para imprimir los datos enviados y la transacción en un archivo
 ```
-python3 src/facturacionMLS.py tests/factura-2024-05-12-10-00-00-000000.csv
+python3 src/facturacionMLS.py tests/factura-2024-05-12-10-00-00-000000.csv --log
 ```
 , donde el archivo tests/factura-2024-05-12-10-00-00-000000.csv tiene dos líneas, cada línea con campos y valores separados por comas, la primera línea son los encabezados y la segunda línea los valores correspondientes de las columnas:
 ```
