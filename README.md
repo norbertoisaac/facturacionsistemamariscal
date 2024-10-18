@@ -2,6 +2,10 @@
 # Prerrequisito
 Instalar Python3.12, preferentemente desde el microsoft store
 # Forma de uso
+
+Argumentos:
+	--log
+		para imprimir los datos enviados y la transacción en un archivo
 ```
 python3 src/facturacionMLS.py tests/factura-2024-05-12-10-00-00-000000.csv
 ```
